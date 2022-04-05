@@ -2,12 +2,6 @@
 
 Developer since 2017 where I developed my first applications using COS (Caché Object Script) and CSP (Caché Server Pages) acting directly as Full Stack.
 Today I work directly as Front End, but I apply my studies in Back End and Front End.
-
-<div align="center">
-  <a href="https://github.com/chrisviana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisviana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisviana&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 #### Hard skills
 <div alingn="center">
